@@ -7,18 +7,18 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Idia.photo
+title: idia.photo
 # Description of the Site
 description: Jesteśmy Idia. 
 # URL of Image of the Site
-site-image: /assets/images/idia-logo.jpg
+site-image: idia/assets/images/idia-logo.jpg
 # Keywords of the Site
 site-keywords: Towarzystwo Fotograficzne, Idia, Fotografia, Photography, Grupa inspirująca
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /assets/images/jestesmy-idia.jpg
+heroimage: idia/assets/images/jestesmy-idia.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
