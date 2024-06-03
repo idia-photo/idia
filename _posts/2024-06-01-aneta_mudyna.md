@@ -1,7 +1,7 @@
 ---
 title: Aneta Mudyna
 layout: post
-post-image: /idia/assets/images/aneta_mudyna/maneta_mudyna.jpg
+post-image: /idia/assets/images/aneta_mudyna/aneta_mudyna.jpg
 description: Niekończące źródło pomysłów
 tags:
 - fotografia
