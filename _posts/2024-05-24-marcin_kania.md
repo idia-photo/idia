@@ -4,7 +4,7 @@ layout: post
 post-image: /idia/assets/images/marcin_kania/marcin_kania.jpg
 description: Nasz prezes i człowiek od książek
 tags:
-- fotorafia
+- fotografia
 - literatura
 ---
 
