@@ -3,6 +3,8 @@ title: Małgorzata Kozakowska
 layout: post
 post-image: /idia/assets/images/malgorzata_kozakowska/malgorzata_kozakowska.jpg
 description: Autorka magicznych fotokreacji
+facebook_url: https://www.facebook.com/profile.php?id=100002085976754
+instagram_username: gosia.kozakowska
 tags:
 - fotokreacje
 ---

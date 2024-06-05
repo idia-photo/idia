@@ -3,6 +3,8 @@ title: Paweł Stożek
 layout: post
 post-image: /idia/assets/images/pawel_stozek/pawel_stozek.jpg
 description: 
+facebook_url: https://www.facebook.com/profile.php?id=100001542312660
+instagram_username: paulo_cono
 tags:
 - fotograf
 - grafik
