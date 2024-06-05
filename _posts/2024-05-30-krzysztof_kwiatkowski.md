@@ -2,6 +2,7 @@
 title: Krzysztof Kwiatkowski
 layout: post
 post-image: /idia/assets/images/krzysztof_kwiatkowski/krzysztof_kwiatkowski.jpg
+site.facebook_url: https://www.facebook.com/krzysztof.kwiatkowski.10441
 description: 
 tags:
 - wspinacz
