@@ -29,10 +29,21 @@ layout: compress
             {% unless page.description.size == 0 %}
             <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.description | strip | strip_html | strip_newlines }}</p>
             {% endunless %}
+            
+            {% unless page.facebook_url == %}
+              <a href="{{page.facebook_url}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+            {% endunless %}
+            {% unless page.instagram_username ==  %}
+              <a href="http://www.instagram.com/{{page.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
+            {% endunless %}
+
+            <!-- 
             <p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">Published on
               <b>{{ page.date | date: "%-B %d, %Y" }}</b> by <a href="{% if site.author-url %}{{site.author-url}}{% else %}{{site.url}}{{site.baseurl}}/#about{% endif %}" target="_blank"><b class="has-text-link"><u>{{site.author-name}}</u></b>
               </a>
             </p>
+            -->
+
             {%- assign tags = page.tags -%}
             {%- unless tags.size == 0 -%}
             <p class="subtitle is-uppercase">
