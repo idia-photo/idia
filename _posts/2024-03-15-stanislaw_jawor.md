@@ -2,6 +2,7 @@
 title: Stanisław Jawor
 layout: post
 post-image: /idia/assets/images/stanislaw_jawor/stanislaw_jawor.jpg
+post-image-author: fot. Marta Kwiatkowska
 description: Mentor i organizator świetnych plenerów
 facebook_url: https://www.facebook.com/stanislaw.jawor
 instagram_username: stanislawjawor7432
