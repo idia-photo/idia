@@ -2,6 +2,7 @@
 title: Mieczysław Nowak
 layout: post
 post-image: /idia/assets/images/mieczyslaw_nowak/mieczyslaw_nowak.jpg
+personal_site: https://www.photocrowd.com/photographer-community/30665/
 post-image-author: fot. Marta Kwiatkowska
 description: Zaangażowany w działalność na rzecz fotografii
 tags:
