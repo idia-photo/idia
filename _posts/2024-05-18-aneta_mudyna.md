@@ -13,8 +13,8 @@ Aneta Mudyna jest artystką fotografką. Należy do Fotoklubu Rzeczypospolitej P
 
 ---
 
-# Wybrane prace
+# Wybrane prace z cyklu "Planeta Ludzi" 
 
-![Na dziedzińcu](/idia/assets/images/aneta_mudyna/na_dziedzincu.jpg)
-![Procesja](/idia/assets/images/aneta_mudyna/procesja.jpg)
+![1](/idia/assets/images/aneta_mudyna/am-1.jpg)
+![2](/idia/assets/images/aneta_mudyna/am-2.jpg)
 
