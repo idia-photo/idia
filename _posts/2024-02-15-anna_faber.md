@@ -13,7 +13,9 @@ W fotografii podążam różnymi drogami, czasem zawracając by wybrać inny kie
 
 # Wybrane prace
 
-![1](/idia/assets/images/anna_faber/07.jpg)
+![Niepokoje 03](/idia/assets/images/anna_faber/Niepokoje_03.jpg)
+![Niepokoje 05](/idia/assets/images/anna_faber/Niepokoje_05.jpg)
+![Góry moje 05](/idia/assets/images/anna_faber/Gory_moje_05.jpg)
 
 
 
