@@ -6,9 +6,7 @@ post-image-author: fot. Marta Kwiatkowska
 facebook_url: https://www.facebook.com/krzysztof.kwiatkowski.10441
 description: 
 tags:
-- wspinacz
-- fotograf
-- wędrowiec
+
 
 ---
 
