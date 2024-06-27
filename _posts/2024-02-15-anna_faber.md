@@ -1,7 +1,7 @@
 ---
 title: Anna Faber
 layout: post
-post-image: /idia/assets/images/anna_faber/anna_faber.jpg
+post-image: /assets/images/anna_faber/anna_faber.jpg
 description: 
 tags:
 - poszukiwanie
