@@ -13,9 +13,9 @@ W fotografii podążam różnymi drogami, czasem zawracając by wybrać inny kie
 
 # Wybrane prace
 
-![Niepokoje 03](/idia/assets/images/anna_faber/Niepokoje_03.jpg)
-![Niepokoje 05](/idia/assets/images/anna_faber/Niepokoje_05.jpg)
-![Góry moje 05](/idia/assets/images/anna_faber/Gory_moje_05.jpg)
+![Niepokoje 03](/assets/images/anna_faber/Niepokoje_03.jpg)
+![Niepokoje 05](/assets/images/anna_faber/Niepokoje_05.jpg)
+![Góry moje 05](/assets/images/anna_faber/Gory_moje_05.jpg)
 
 
 
