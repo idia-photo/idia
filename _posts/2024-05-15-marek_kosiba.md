@@ -15,7 +15,7 @@ Marek Kosiba (1957-2023) — był fotografem, podróżnikiem oraz konstruktorem-
 
 # Wybrane prace
 
-![Death valley planet](/idia/assets/images/marek_kosiba/1.jpg)
+![Death valley planet](/assets/images/marek_kosiba/1.jpg)
 
 
 
