@@ -1,7 +1,7 @@
 ---
 title: Marcin Kania
 layout: post
-post-image: /idia/assets/images/marcin_kania/marcin_kania.jpg
+post-image: /assets/images/marcin_kania/marcin_kania.jpg
 description: Nasz prezes i człowiek od książek
 facebook_url: https://www.facebook.com/marcin.kania.13
 tags:
