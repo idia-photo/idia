@@ -29,6 +29,6 @@ Artur Brocki jest członkiem Stowarzyszenia Fotograficznego „Idia” oraz Stow
 
 # Wybrane prace
 
-![1](/idia/assets/images/artur_brocki/DSC_2139.jpg)
-![2](/idia/assets/images/artur_brocki/DSC_1952.jpg)
-![3](/idia/assets/images/artur_brocki/DSC_2106.jpg)
+![1](/assets/images/artur_brocki/DSC_2139.jpg)
+![2](/assets/images/artur_brocki/DSC_1952.jpg)
+![3](/assets/images/artur_brocki/DSC_2106.jpg)
