@@ -16,6 +16,6 @@ Zajmuję się abstrakcją, portretem, fotografią rodzinną, społeczną, uliczn
 
 # Wybrane prace
 
-![1](/idia/assets/images/krzysztof_kwiatkowski/1.jpg)
-![2](/idia/assets/images/krzysztof_kwiatkowski/2.jpg)
-![3](/idia/assets/images/krzysztof_kwiatkowski/3.jpg)
+![1](/assets/images/krzysztof_kwiatkowski/1.jpg)
+![2](/assets/images/krzysztof_kwiatkowski/2.jpg)
+![3](/assets/images/krzysztof_kwiatkowski/3.jpg)
