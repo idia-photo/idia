@@ -17,9 +17,9 @@ Paweł Stożek — fotograf, grafik, muzyk. Swoją przygodę z fotografią rozpo
 
 # Wybrane prace
 
-![Hiponimy](/idia/assets/images/pawel_stozek/1.jpg)
-![Hiponimy](/idia/assets/images/pawel_stozek/2.jpg)
-![Hiponimy](/idia/assets/images/pawel_stozek/3.jpg)
+![Hiponimy](/assets/images/pawel_stozek/1.jpg)
+![Hiponimy](/assets/images/pawel_stozek/2.jpg)
+![Hiponimy](/assets/images/pawel_stozek/3.jpg)
 
 
 
