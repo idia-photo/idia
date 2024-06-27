@@ -16,8 +16,8 @@ Mieczysław Nowak związany jest z małopolskim oraz świętokrzyskim środowisk
 
 # Wybrane prace
 
-![Miłość odwzajemniona](/idia/assets/images/mieczyslaw_nowak/mn-1.jpg)
-![2](/idia/assets/images/mieczyslaw_nowak/mn-2.jpg)
-![3](/idia/assets/images/mieczyslaw_nowak/mn-3.jpg)
+![Miłość odwzajemniona](/assets/images/mieczyslaw_nowak/mn-1.jpg)
+![2](/assets/images/mieczyslaw_nowak/mn-2.jpg)
+![3](/assets/images/mieczyslaw_nowak/mn-3.jpg)
 
 
