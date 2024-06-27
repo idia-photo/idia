@@ -1,7 +1,7 @@
 ---
 title: Artur Brocki
 layout: post
-post-image: /idia/assets/images/artur_brocki/artur_brocki.jpg
+post-image: /assets/images/artur_brocki/artur_brocki.jpg
 description: Wyjątkowo pracowity fotograf
 facebook_url: https://www.facebook.com/profile.php?id=100005585927703
 tags:
