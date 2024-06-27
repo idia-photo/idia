@@ -1,7 +1,7 @@
 ---
 title: Aneta Mudyna
 layout: post
-post-image: /idia/assets/images/aneta_mudyna/aneta_mudyna.jpg
+post-image: /assets/images/aneta_mudyna/aneta_mudyna.jpg
 description: Niekończące źródło pomysłów
 facebook_url: https://www.facebook.com/aneta.mudyna
 instagram_username: atenamudyna
