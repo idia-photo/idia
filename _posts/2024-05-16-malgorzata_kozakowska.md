@@ -15,9 +15,9 @@ Jest uznaną artystką w dziedzinie fotografii, która: swoją niezwykłą wraż
 
 # Wybrane prace
 
-![1](/idia/assets/images/malgorzata_kozakowska/1.jpg)
-![2](/idia/assets/images/malgorzata_kozakowska/2.jpg)
-![4](/idia/assets/images/malgorzata_kozakowska/4.jpg)
+![1](/assets/images/malgorzata_kozakowska/1.jpg)
+![2](/assets/images/malgorzata_kozakowska/2.jpg)
+![4](/assets/images/malgorzata_kozakowska/4.jpg)
 
 
 
