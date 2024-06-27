@@ -22,6 +22,6 @@ Marcin Kania (ur. 1980 w Krakowie) jest doktorem nauk humanistycznych w dziedzin
 
 # Wybrane prace
 
-![Kreacja](/idia/assets/images/marcin_kania/marcin_kania-01.blizej-kreacja.jpg)
-![Parking](/idia/assets/images/marcin_kania/marcin_kania-02.blizej-parking.jpg)
-![Czytelnik](/idia/assets/images/marcin_kania/marcin_kania-03.blizej-czytelnik.jpg)
+![Kreacja](/assets/images/marcin_kania/marcin_kania-01.blizej-kreacja.jpg)
+![Parking](/assets/images/marcin_kania/marcin_kania-02.blizej-parking.jpg)
+![Czytelnik](/assets/images/marcin_kania/marcin_kania-03.blizej-czytelnik.jpg)
