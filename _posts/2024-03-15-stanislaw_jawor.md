@@ -17,6 +17,6 @@ Stanisław Jawor, rocznik 1960. Z fotografią związany od zawsze. Organizator l
 
 # Wybrane prace
 
-![1](/idia/assets/images/stanislaw_jawor/sj-1.jpg)
-![2](/idia/assets/images/stanislaw_jawor/sj-2.jpg)
-![3](/idia/assets/images/stanislaw_jawor/sj-3.jpg)
+![1](/assets/images/stanislaw_jawor/sj-1.jpg)
+![2](/assets/images/stanislaw_jawor/sj-2.jpg)
+![3](/assets/images/stanislaw_jawor/sj-3.jpg)
