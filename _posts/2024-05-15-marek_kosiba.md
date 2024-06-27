@@ -1,7 +1,7 @@
 ---
 title: Marek Kosiba
 layout: post
-post-image: /idia/assets/images/marek_kosiba/marek_kosiba.jpg
+post-image: /assets/images/marek_kosiba/marek_kosiba.jpg
 description: 
 tags:
 - wynalazca
