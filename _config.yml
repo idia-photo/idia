@@ -11,14 +11,14 @@ title: idia.photo
 # Description of the Site
 description: Jesteśmy Idia. 
 # URL of Image of the Site
-site-image: /idia/assets/images/idia-logo.jpg
+site-image: /assets/images/idia-logo.jpg
 # Keywords of the Site
 site-keywords: Towarzystwo Fotograficzne, Idia, Fotografia, Photography, Grupa inspirująca
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /idia/assets/images/jestesmy-idia.jpg
+heroimage: /assets/images/jestesmy-idia.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: idia.photo
 # URL for the Image of the Author
-author-image: /idia/assets/images/idia-logo.jpg
+author-image: /assets/images/idia-logo.jpg
 # 60 Words About the Author
 author-about: Towarzystwo Fotograficzne IDIA powstało z głębokiego szacunku do fotografii. Jako aktywni artyści jesteśmy żywo zainteresowani tą formą twórczego spojrzenia na rzeczywistość. Pozostałe, niefotograficzne kwestie, są nam obce. Jako grupa realizujemy konkretne cele artystyczne, indywidualnie lub wspólnie. Jesteśmy zatem jednością, która szanuje indywidualizm oraz inspiruje do samodzielnych poszukiwań artystycznych. Jako grupa pozostajemy otwarci na współpracę z innymi stowarzyszeniami artystycznymi – w kraju i na Świecie. Fotografia powinna łączyć, a miłość do niej – zbliżać. A jeśli mamy się różnić to tylko (parafrazując słowa Cypriana Norwida) pięknie oraz mocno.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
