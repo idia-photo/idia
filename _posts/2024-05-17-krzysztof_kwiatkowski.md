@@ -1,7 +1,7 @@
 ---
 title: Krzysztof Kwiatkowski
 layout: post
-post-image: /idia/assets/images/krzysztof_kwiatkowski/krzysztof_kwiatkowski.jpg
+post-image: /assets/images/krzysztof_kwiatkowski/krzysztof_kwiatkowski.jpg
 post-image-author: fot. Marta Kwiatkowska
 facebook_url: https://www.facebook.com/krzysztof.kwiatkowski.10441
 description: 
