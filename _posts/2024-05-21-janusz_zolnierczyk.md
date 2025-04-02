@@ -13,8 +13,8 @@ To para, którą połączyła wspólna pasja do fotografii. Janusz Żołnierczyk
 
 Ich wspólna pasja nie tylko ich połączyła, ale także nieustannie motywuje do rozwoju. Wciąż szukają nowych inspiracji, udoskonalają swoje umiejętności i organizują plenery fotograficzne – na swoim koncie mają już ponad 30 takich wydarzeń oraz liczne publikacje. Wokół ich działalności zgromadziła się społeczność licząca ponad 800 osób w grupie Światłocienie Plenery Fotograficzne na Facebooku.
 
-
 Dla nich fotografia to nie tylko praca, ale sposób na życie, który każdego dnia daje im radość i satysfakcję.
+
 ---
 
 # Wybrane prace
