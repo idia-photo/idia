@@ -20,7 +20,9 @@ Dla nich fotografia to nie tylko praca, ale sposób na życie, który każdego d
 # Wybrane prace
 
 ![1](/assets/images/janusz_zolnierczyk/1.jpg)
+<br>
 ![2](/assets/images/janusz_zolnierczyk/2.jpg)
+<br>
 ![3](/assets/images/janusz_zolnierczyk/3.jpg)
 
 
